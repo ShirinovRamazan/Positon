@@ -1,0 +1,121 @@
+.modal{
+    width: 500px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    transform: translate(-50%, -50%);
+}
+ .modal .input-wrapper .name-input{
+    
+ padding: 8px 12px 8px 30px; 
+ border: 1px solid gray; 
+ margin: 25px 30px;
+ outline: none;
+} 
+.input-wrapper img{
+    position: absolute;
+    left: 40px;
+    top: 32px;
+}
+
+.input-wrapper{
+    width: 100%;
+    position: relative;
+}
+
+ .input-wrapper1 .email-input{
+    padding: 8px 12px 8px 30px; 
+    border: 1px solid gray; 
+    margin: 25px 30px;
+    outline: none;
+}
+
+.input-wrapper1 img{
+    position: absolute;
+    left: 40px;
+    top: 32px;
+
+}
+
+.input-wrapper1{
+    width: 100%;
+    position: relative;
+}
+
+.input-wrapper2 .phone-input{
+    padding: 8px 12px 8px 30px;
+    border: 1px solid gray;
+    margin: 25px 30px;
+    outline: none;
+}
+
+.input-wrapper2 img{
+    position: absolute;
+    left: 40px;
+    top: 32px;
+
+}
+
+.input-wrapper2{
+    width: 100%;
+    position: relative;
+}
+
+
+.input-wrapper3 .serviceYouNeed-input{
+    padding: 8px 12px 8px 30px;
+    border: 1px solid gray;
+    margin: 25px 30px;
+    outline: none;
+}
+
+.input-wrapper3 img{
+    
+    position: absolute;
+    left: 40px;
+    top: 32px;
+
+
+}
+
+.input-wrapper3{
+    width: 100%;
+    position: relative;
+ 
+}
+
+.input-wrapper4 .anynoteforus-input{
+    padding: 50px 25px 8px 60px;
+    border: 1px solid gray;
+    margin: 25px 30px;
+    outline: none;
+    
+}
+
+.input-wrapper4 img{
+    position: absolute;
+    left: 40px;
+    top: 30px;
+
+
+}
+
+.input-wrapper4{
+    width: 100%;
+    position: relative;
+}
+
+button{
+    padding: 10px 180px;
+    background-color: rgb(rgb(194, 150, 150), green, blue);
+    color: black;
+    cursor: pointer;
+}
+
+
+.input-wrapper button {
+
+}
